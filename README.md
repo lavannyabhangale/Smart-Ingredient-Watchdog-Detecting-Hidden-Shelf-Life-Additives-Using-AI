@@ -41,4 +41,4 @@ The project aims to build an application that:
 
 ---
 
-## 📂 Project Structure
+
