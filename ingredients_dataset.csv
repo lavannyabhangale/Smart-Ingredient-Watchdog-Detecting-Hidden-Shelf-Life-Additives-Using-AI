@@ -1,0 +1,51 @@
+ingredient,label,side_effects,risk_level
+bha,1,"Carcinogenic, endocrine disruption",High
+bht,1,"Liver toxicity, thyroid problems",High
+sodium benzoate,1,DNA damage with vitamin C,Moderate
+red dye 40,1,Hyperactivity in children,Moderate
+aspartame,1,"Headaches, seizures",Moderate
+msg,1,"MSG syndrome, headaches",Moderate
+high fructose corn syrup,1,"Obesity, diabetes",High
+sodium nitrite,1,Forms carcinogenic nitrosamines,High
+sulfur dioxide,1,"Respiratory problems, asthma",Moderate
+tbhq,1,"Nausea, vomiting at high doses",Moderate
+e320,1,Same as BHA - carcinogenic,High
+e321,1,Same as BHT - liver toxicity,High
+e211,1,DNA damage potential,Moderate
+e129,1,Hyperactivity in children,Moderate
+e951,1,Headaches and seizures,Moderate
+e621,1,MSG syndrome symptoms,Moderate
+e220,1,"Respiratory issues, asthma",Moderate
+e250,1,Carcinogenic nitrosamines,High
+e102,1,Yellow dye - hyperactivity,Moderate
+e133,1,Blue dye - chromosomal damage,Low
+partially hydrogenated oil,1,"Heart disease, trans fats",High
+carrageenan,1,Digestive inflammation,Moderate
+sodium phosphate,1,Kidney and heart disease,Moderate
+propylene glycol,1,Skin and respiratory irritation,Low
+artificial vanilla,1,Headaches in sensitive people,Low
+salt,0,Safe in normal quantities,Safe
+sugar,0,Safe in moderation,Safe
+water,0,Essential for life,Safe
+wheat flour,0,Safe unless gluten intolerant,Safe
+vegetable oil,0,Safe in normal amounts,Safe
+garlic,0,"Safe, health benefits",Safe
+onion,0,"Safe, antioxidant properties",Safe
+black pepper,0,"Safe, aids digestion",Safe
+cinnamon,0,"Safe, regulates blood sugar",Safe
+vanilla extract,0,"Safe, natural flavoring",Safe
+lemon juice,0,"Safe, provides vitamin C",Safe
+baking soda,0,Safe in baking quantities,Safe
+yeast,0,"Safe, provides B vitamins",Safe
+milk,0,Safe unless lactose intolerant,Safe
+eggs,0,Safe when properly cooked,Safe
+olive oil,0,"Safe, heart healthy",Safe
+tomatoes,0,"Safe, rich in lycopene",Safe
+rice,0,"Safe, gluten-free grain",Safe
+chicken,0,Safe protein source,Safe
+beef,0,Safe in moderation,Safe
+sea salt,0,Same as salt - safe in moderation,Safe
+organic sugar,0,Same as regular sugar,Safe
+coconut oil,0,Safe cooking oil,Safe
+honey,0,"Natural sweetener, safe for adults",Safe
+maple syrup,0,Natural sweetener,Safe

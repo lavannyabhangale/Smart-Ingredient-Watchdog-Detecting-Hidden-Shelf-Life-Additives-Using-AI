@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+
+nltk
+spacy
+opencv-python
+pytesseract
+matplotlib
+seaborn
+plotly
+streamlit
+sqlite3-binary
